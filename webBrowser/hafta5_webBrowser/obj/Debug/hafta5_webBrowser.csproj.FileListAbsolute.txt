@@ -1,0 +1,10 @@
+C:\Users\Hp\Desktop\B.P 2.sınıf\güz\nesne programlama 2\derste yapılan örnekler\hafta5_webBrowser\hafta5_webBrowser\bin\Debug\hafta5_webBrowser.exe.config
+C:\Users\Hp\Desktop\B.P 2.sınıf\güz\nesne programlama 2\derste yapılan örnekler\hafta5_webBrowser\hafta5_webBrowser\bin\Debug\hafta5_webBrowser.exe
+C:\Users\Hp\Desktop\B.P 2.sınıf\güz\nesne programlama 2\derste yapılan örnekler\hafta5_webBrowser\hafta5_webBrowser\bin\Debug\hafta5_webBrowser.pdb
+C:\Users\Hp\Desktop\B.P 2.sınıf\güz\nesne programlama 2\derste yapılan örnekler\hafta5_webBrowser\hafta5_webBrowser\obj\Debug\hafta5_webBrowser.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\B.P 2.sınıf\güz\nesne programlama 2\derste yapılan örnekler\hafta5_webBrowser\hafta5_webBrowser\obj\Debug\hafta5_webBrowser.Form1.resources
+C:\Users\Hp\Desktop\B.P 2.sınıf\güz\nesne programlama 2\derste yapılan örnekler\hafta5_webBrowser\hafta5_webBrowser\obj\Debug\hafta5_webBrowser.Properties.Resources.resources
+C:\Users\Hp\Desktop\B.P 2.sınıf\güz\nesne programlama 2\derste yapılan örnekler\hafta5_webBrowser\hafta5_webBrowser\obj\Debug\hafta5_webBrowser.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\B.P 2.sınıf\güz\nesne programlama 2\derste yapılan örnekler\hafta5_webBrowser\hafta5_webBrowser\obj\Debug\hafta5_webBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\B.P 2.sınıf\güz\nesne programlama 2\derste yapılan örnekler\hafta5_webBrowser\hafta5_webBrowser\obj\Debug\hafta5_webBrowser.exe
+C:\Users\Hp\Desktop\B.P 2.sınıf\güz\nesne programlama 2\derste yapılan örnekler\hafta5_webBrowser\hafta5_webBrowser\obj\Debug\hafta5_webBrowser.pdb
